@@ -1,0 +1,3 @@
+O objetivo desta atividade é criar uma Interface Gráfica para um sistema 
+de banco fictício, implementando funções como a de listar os clientes 
+cadastrados, suas respectivas contas e algumas consultas como médias de saldo, etc. 
